@@ -2,5 +2,5 @@
 
 let grade = 60;
 
- const msg = grade >= 60 ? "Pass🎉" : "Failed😔";
+ const msg = grade >= 60 ? "Pass🎉" : "Fail😔";
 console.log(msg);

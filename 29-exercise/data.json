@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "jaamac",
+    "class": "f5",
+    "age": 29,
+    "orders": [
+      { "id": 1, "product": "laptop", "quantity": 2 },
+      { "id": 2, "product": "mouse", "quantity": 3 }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Abdi",
+    "class": "f5",
+    "age": 29,
+    "orders": [
+      { "id": 3, "product": "laptop", "quantity": 2 },
+      { "id": 4, "product": "mouse", "quantity": 3 }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "ahmed",
+    "class": "f5",
+    "age": 29,
+    "orders": [
+      { "id": 5, "product": "laptop", "quantity": 2 },
+      { "id": 6, "product": "mouse", "quantity": 3 }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "nuur",
+    "class": "f5",
+    "age": 29,
+    "orders": [
+      { "id": 7, "product": "laptop", "quantity": 2 },
+      { "id": 8, "product": "mouse", "quantity": 3 }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "shueip",
+    "class": "f5",
+    "age": 29,
+    "orders": [
+      { "id": 9, "product": "laptop", "quantity": 2 },
+      { "id": 10, "product": "mouse", "quantity": 3 }
+    ]
+  }
+]

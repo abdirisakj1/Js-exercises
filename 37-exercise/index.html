@@ -1,0 +1,46 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Blog Post</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Blog Post</h1>
+      <form id="blog-form">
+        <h2>Create New Post</h2>
+        <input type="text" id="post-title" placeholder="Post Tittle" />
+        <input type="text" id="post-url" placeholder="Image Url" />
+        <textarea
+          name="msg"
+          id="post-msg"
+          placeholder="write your post here..."
+        ></textarea>
+        <button type="submit" id="post-btn">Add Post</button>
+      </form>
+
+      <h1>All Posts</h1>
+      <div class="container" id="post-list">
+        <!-- <div class="post">
+          <h2>Awesome Post</h2>
+          <img
+            src="https://i.pinimg.com/1200x/11/fd/09/11fd09f6f32211436237ebfb92591dd1.jpg"
+            alt=""
+          />
+          <p>Lorem ipsum dolor sit.</p>
+          <button class="edit-btn">
+            <i class="fa-solid fa-pen-to-square"></i>
+          </button>
+          <button class="delete-btn"><i class="fa-solid fa-trash"></i></button>
+        </div> -->
+      </div>
+    </div>
+
+    <script src="main.js"></script>
+  </body>
+</html>

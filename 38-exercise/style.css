@@ -7,7 +7,8 @@
 body {
     font-family: Arial, sans-serif;
 }
-img{
+
+img {
     width: 100%;
 }
 
@@ -78,7 +79,13 @@ img{
     transition: 0.3s;
 }
 
-#home, #about, #service, #Contact, #portfolio, #blog, #career{
+#home,
+#about,
+#service,
+#Contact,
+#portfolio,
+#blog,
+#career {
     width: 100%;
     background-color: blue;
     height: 100vh;
@@ -88,22 +95,28 @@ img{
     color: white;
 
 }
-#about{
+
+#about {
     background-color: cyan;
 }
-#service{
+
+#service {
     background-color: blueviolet;
 }
-#Contact{
+
+#Contact {
     background-color: saddlebrown;
 }
-#portfolio{
+
+#portfolio {
     background-color: green;
 }
-#blog{
+
+#blog {
     background-color: skyblue;
 }
-#career{
+
+#career {
     background-color: #997433;
 }
 

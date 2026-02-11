@@ -83,7 +83,7 @@ function handleEdit(postId, div) {
 }
 
 function updatePost(postId, newTitle, newImg, newMsgPost) {
-
+ 
     const posts = getPostsFromLocalStorage();
     const post = posts.find(post => post.id === postId);
 

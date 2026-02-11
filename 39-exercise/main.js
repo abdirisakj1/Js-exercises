@@ -21,7 +21,7 @@ async function translate(e) {
       from: from,
       to: to,
       text: TranslateTxt,
-    }),
+    }), 
   };
 
   try {
